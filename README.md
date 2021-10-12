@@ -4,3 +4,4 @@
 * On average, a cow produces 6.3 gallons of milk each day. 
 * Milk will stay fresher if you add salt.
 * The world's rarest cheese is made from donkey milk.
+* Milk is the only food that you can survive wholly on
